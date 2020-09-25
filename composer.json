@@ -1,5 +1,5 @@
 {
-    "name": "picqer/exact-php-client",
+    "name": "sdekkers/exact-php-client",
     "type": "library",
     "description": "A PHP Client for the Exact API",
     "keywords": [
@@ -16,8 +16,8 @@
         }
     ],
     "require": {
-        "php": ">=5.5.0",
-        "guzzlehttp/guzzle": "~6.0"
+        "php": ">=7.2.0",
+        "guzzlehttp/guzzle": "~6.0 || ^7.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8.36"
